@@ -1,0 +1,456 @@
+/*About theme*/
+#wpwrap{
+	background: #fff;
+    font-family: 'Muli', sans-serif;
+}
+b{
+    font-weight: 700;
+}
+.wrapper-info {
+    margin-top: 20px;
+}
+.col-left{
+	width: 65%;
+	float: left;
+}
+.col-right {
+    width: 30%;
+    float: right;
+    padding: 5px;
+    margin: 0px 20px;
+    background: #eee;
+    border: solid 1px #ddd;
+}
+.wrapper-info h2 {
+    color: #004c75;
+    font-size: 24px;
+    margin: 15px 0;
+    font-weight: bold;
+}
+span.version {
+    font-size: 15px;
+    color: #333;
+}
+.logo {
+    margin: 5px 0;
+}
+.col-left p {
+    font-size: 15px;
+    color: #333;
+}
+img{
+    margin-bottom: 2px;
+    max-width: 100%;
+}
+li{
+    margin-top: 15px;
+    margin-top: 15px;
+    list-style: none;
+}
+.strong{
+    font-weight: bold;
+}
+.row {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -25px;
+}
+.col-md-5 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 41.666667%;
+    -ms-flex: 0 0 41.666667%;
+    flex: 0 0 41.666667%;
+    max-width: 41.666667%;
+}
+.col-md-7 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 58.333333%;
+    -ms-flex: 0 0 58.333333%;
+    flex: 0 0 58.333333%;
+    max-width: 58.333333%;
+}
+#wpwrap {
+    height: auto;
+    min-height: 100%;
+    width: 100%;
+    position: relative;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+/*.wrapper-info ul, .wrapper-info menu, .wrapper-info dir {
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}*/
+#plugins-sec{
+    margin-top: 10px;
+}
+h2 #heading{
+    margin-top: 20px;
+}
+figure{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+ol{
+    display: block;
+    margin-right: 10px;
+}
+.posttype-plugin{
+    margin-right: 20px;
+    clear: both;
+}
+.img-paraloid {
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+pull-left{
+  margin-right: 15px;
+}
+
+/*Tab Button*/
+.tab button {
+    border: solid 1px #bbb;
+    padding: 15px;
+    background: #eee;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 10px;
+    cursor: pointer;
+}
+hr.h3hr,
+hr.h4hr {
+    width: 10%;
+    border-top: 2px solid;
+    margin: 0;
+}
+.tab-sec h3 {
+    color: #004c75;
+    font-size: 24px;
+    margin: 35px 0 10px;
+    line-height: 30px;
+}
+.tab-sec p {
+    font-size: 16px;
+    color: #333;
+}
+.col-right-inner {
+    width: 60%;
+    float: right;
+    padding: 0 20px;
+}
+.col-right-inner-1 {
+    width: 60%;
+    float: right;
+    padding: 20px;
+}
+.col-left-inner {
+    width: 33%;
+    float: left;
+}
+.col-right-inner img {
+    width: 100%;
+}
+.col-left-inner h4,
+.update-now h4,
+.col-3 h4 {
+    font-size: 14px;
+    font-weight: bold;
+    color: #000;
+    margin-bottom: 5px;
+    margin-top: 15px;
+}
+.update-now h4{
+    text-align: center;
+    color: #004c75;
+    margin: 15px 0 30px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+.col-left-inner p {
+    font-size: 14px;
+    margin: 8px 0;
+}
+.info-link a,
+.col-left-pro a{
+    background: #004c75;
+    padding: 8px 15px;
+    color: #fff;
+    font-size: 15px;
+    border-radius: 3px;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+#our_theme .h4hr {
+    margin: 8px auto;
+    width: 20%;
+}
+.theme-offer {
+    margin: 15px 0;
+}
+.info-link a:hover,
+.col-left-pro a:hover,
+td.update-link:hover{
+    background: #0771ab;
+}
+.info-link {
+    margin: 20px 0;
+}
+.col-right .info-link,
+.logo{
+    text-align: center;
+}
+button.tablinks:focus {
+    outline: none;
+}
+button.tablinks.active {
+    border-bottom: solid 4px #004c75;
+}
+.table-image {
+    padding: 20px;
+}
+.col-left-pro {
+    width: 40%;
+    float: left;
+}
+.col-right-pro {
+    width: 55%;
+    float: right;
+    padding: 15px;
+}
+.pro-links {
+    margin: 3em 0;
+}
+.pro-links a {
+    margin-right: 8px;
+    padding: 10px 15px;    
+}
+.tabcontent {
+    display: none;
+}
+.open {
+    display: block ;
+}
+.tab-sec,
+.featurebox {
+    width: 100%;
+    float: left;
+}
+.col-left-pro p {
+    margin-top: 25px;
+}
+.innerbox {
+    margin: 30px 0;
+}
+/*Table CSS*/
+
+.tablebox td {
+    padding: 15px 10px;
+    font-size: 18px;
+    color: #000;
+    border: solid 1px #ddd;
+}
+td.table-img {
+    text-align: center;
+}
+tr.odd {
+    background: #eee;
+}
+.tablebox th {
+    padding: 15px;
+    background: #eee;
+    color: #000;
+    font-size: 20px;
+    border: solid 1px #ddd;
+}
+table.tablebox {
+    border: solid 1px #ddd;
+    padding: 2px;
+    width: 100%;
+}
+td.update-link {
+    background: rgb(111, 168, 27);
+    font-size: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+td.update-link a {
+    color: #fff;    
+    text-decoration: none;
+}
+
+/*Support CSS*/
+
+.col-3 {
+    width: 28%;
+    float: left;
+    padding: 10px;
+    border: solid 1px #ddd;
+    margin: 25px 10px;
+}
+#free_pro .dashicons {
+    margin-right: 10px;
+}
+.getting_started{
+    border: 10px solid #cccccc;
+    color: #608299;
+    padding: 30px 10px;
+    text-align: left;
+    box-shadow: none;
+}
+
+/* rate us*/
+.col-logo {
+    width: 6%;
+    float: left;
+}
+.col-content {
+    width: 93%;
+    float: right;
+}
+.rate-us {
+    float: left;
+    margin: 20px 0 !important;
+    border: none !important;
+    padding: 10px !important;
+    background: #eee !important;
+    box-shadow: 0 0 7px 2px #bbb !important;
+}
+.col-content p {
+    font-size: 13px;
+    color: #000;
+    padding-right: 4em !important;
+    margin: 0 !important;
+}
+.rate-btn a {
+    background: #ca4a1f;
+    color: #fff;
+    text-decoration: none;
+    padding: 4px 12px;
+    font-weight: bold;
+    font-size: 13px;
+}
+.rate-btn a:hover {
+    background: #b1360d;
+}
+.rate-btn {
+    margin-top: 2px;
+}
+#setting-error-tgmpa {
+    float: left;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+/* Our theme tab */
+.col1-first {
+    width: 36%;
+    float: left;
+    text-align: center;
+    padding: 10px;
+    border: solid 1px #ddd;
+    margin-right: 20px;
+    box-shadow: 2px 2px 10px 0 #bbb;
+}
+.col2-first {
+    width: 26%;
+    float: left;
+    padding: 10px;
+    border: solid 1px #ddd;
+    text-align: center;
+    margin-right: 20px;
+    box-shadow: 2px 2px 10px 0 #bbb;
+}
+.col3-first {
+    width: 26%;
+    float: left;
+    padding: 10px;
+    border: solid 1px #ddd;
+    text-align: center;
+    box-shadow: 2px 2px 10px 0 #bbb;
+}
+.row-bar {
+    width: 100%;
+    float: left;
+    margin-top: 25px;
+}
+.col-second {
+    width: 29%;
+    float: left;
+    padding: 10px;
+    border: solid 1px #ddd;
+    margin-right: 23px;
+    text-align: center;
+    box-shadow: 2px 2px 10px 0 #bbb;
+}
+.info-link .dashicons {
+    margin-right: 6px;
+}
+#our_theme h4{
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+/*Review CSS*/
+.vw_review_head{
+    font-size:13px;
+}
+.vw_review_buttons{
+    font-size:12px;
+}
+.vw_review_buttons_a{
+    color: #fff;
+    background: #ef4238;
+    padding: 5px 7px 4px 6px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+.vw_review_buttons_a:hover{
+    color: #ffffff;
+}
+.vw_notice_outer{
+    float:left;
+    margin-right:10px;
+    margin-bottom:5px;
+}
+.vw-logo_img{
+    width:100%;
+    width: 60px;
+    height: auto;
+}
+.importer-note
+{
+    padding-left: 20px;
+}
+.importer-note li
+{
+    font-size: 18px;
+    color:#000;
+    list-style-type:decimal;
+}
+.importer-note li a
+{
+    text-decoration: none;
+    font-weight: bold;
+}
