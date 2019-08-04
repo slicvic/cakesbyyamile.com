@@ -147,7 +147,6 @@ class WP_Http {
 	 *                        A WP_Error instance upon error.
 	 */
 	public function request( $url, $args = array() ) {
-	
 		$defaults = array(
 			'method'              => 'GET',
 			/**
@@ -255,7 +254,6 @@ class WP_Http {
 		 * @param array               $r        HTTP request arguments.
 		 * @param string              $url      The request URL.
 		 */
-	
 		$pre = apply_filters( 'pre_http_request', false, $r, $url );
 
 		if ( false !== $pre ) {
