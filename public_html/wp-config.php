@@ -18,6 +18,10 @@
  * @package WordPress
  */
 
+//@ini_set( 'upload_max_size' , '120M' );
+//@ini_set( 'post_max_size', '120M');
+//@ini_set( 'max_execution_time', '900' );
+
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'cakesbyyamile' );
@@ -99,3 +103,15 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Sets up WordPress vars and included files. */
 require_once( ABSPATH . 'wp-settings.php' );
+
+
+// SMTP Authentication
+define( 'SMTP_USER',   'AKIAYIHZFWR7E2ZNRK4H' );
+define( 'SMTP_PASS',   'BNqyostTgnl5S7T6LhlbNDvJO5hI8gqgp9cY4sPatlZx' );
+define( 'SMTP_HOST',   'email-smtp.us-west-2.amazonaws.com' );
+define( 'SMTP_FROM',   'vmlantigua@gmail.com' );
+define( 'SMTP_FROMNAME',   'Cakes By Yamile' );
+define( 'SMTP_PORT',   587 );
+define( 'SMTP_SECURE', 'tls' );
+define( 'SMTP_AUTH',    true );
+define( 'SMTP_DEBUG',   0 );

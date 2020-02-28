@@ -1,0 +1,476 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tafri Travel\n"
+"Last-Translator: \n"
+"Language-Team: ThemesEye <support@themeseye.com>\n"
+"Language: English\n"
+"MIME-Version: 0.1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 0.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:13
+msgid 'Not Found'
+msgstr ""
+
+#: 404.php:14
+msgid 'Looks like you have taken a wrong turn&hellip'
+msgstr ""
+
+#: archive.php:38
+#: archive.php:67
+#: archive.php:98
+#: archive.php:134
+#: archive.php:166
+#: index.php:39
+#: index.php:63
+#: index.php:89
+#: index.php:111
+#: index.php:134
+#: search.php:36
+#: search.php:62
+#: search.php:90
+#: search.php:115
+#: search.php:144
+msgid 'Previous page'
+msgstr "
+
+#: archive.php:39
+#: archive.php:68
+#: archive.php:99
+#: archive.php:135
+#: archive.php:167
+#: index.php:40
+#: index.php:64
+#: index.php:90
+#: index.php:112
+#: index.php:135
+#: search.php:37
+#: search.php:63
+#: search.php:91
+#: search.php:116
+#: search.php:145
+msgid 'Next page'
+msgstr ""
+
+#: archive.php:40
+#: archive.php:69
+#: archive.php:100
+#: archive.php:136
+#: archive.php:168
+#: index.php:41
+#: index.php:65
+#: index.php:91
+#: index.php:113
+#: index.php:136
+#: search.php:38
+#: search.php:64
+#: search.php:92
+#: search.php:117
+#: search.php:146
+msgid 'Page'
+msgstr ""
+
+#: archive.php:16
+msgid 'Right Sidebar'
+msgstr ""
+
+#: comments.php:28
+msgid 'One thought on &ldquo;%s&rdquo;'
+msgstr ""
+
+#: comments.php:38
+msgid 'comments title'
+msgstr ""
+
+#: comments.php:68
+msgid 'Comments are closed.'
+msgstr ""
+
+#: footer.php:30
+msgid 'By ThemesEye'
+msgstr ""
+
+#: footer.php:31
+msgid 'Powered By WordPress'
+msgstr ""
+
+#: functions.php:30
+msgid 'Left Menu'
+msgstr ""
+
+#: functions.php:31
+msgid 'Right Menu'
+msgstr ""
+
+#: functions.php:32
+msgid 'Responsive Menu'
+msgstr ""
+
+#: functions.php:57
+msgid 'Blog Sidebar'
+msgstr ""
+
+#: functions.php:58
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: functions.php:67
+msgid 'Page Sidebar'
+msgstr ""
+
+#: functions.php:68
+msgid 'Add widgets here to appear in your sidebar on Pages and archive pages.'
+msgstr ""
+
+#: functions.php:77
+msgid "Third Column Sidebar"
+msgstr ""
+
+#: functions.php:78
+msgid "Appears on page sidebar"
+msgstr ""
+
+#: functions.php:87
+msgid "Footer Navigation 1"
+msgstr ""
+
+#: functions.php:97
+msgid "Footer Navigation 2"
+msgstr ""
+
+#: functions.php:107
+msgid "Footer Navigation 3"
+msgstr ""
+
+#: functions.php:117
+msgid "Footer Navigation 4"
+msgstr ""
+
+#: functions.php:88
+#: functions.php:98
+#: functions.php:108
+#: functions.php:118
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:390
+msgid 'Travel WordPress Theme'
+msgstr ""
+
+#: search.php:21
+#: search.php:47
+#: search.php:75
+#: search.php:100
+#: search.php:129
+msgid 'Results For: %s'
+msgstr ""
+
+#: searchform.php:10
+#: searchform.php:12
+msgid 'Search'
+msgstr ""
+
+#: searchform.php:10
+msgid 'placeholder'
+msgstr ""
+
+#: searchform.php:12
+msgid 'submit button'
+msgstr ""
+
+#: sidebar.php:11
+msgid 'Archives'
+msgstr ""
+
+#: sidebar.php:17
+msgid 'Meta'
+msgstr ""
+
+#: single.php:33
+#: single.php:60
+#: single.php:89
+#: single.php:115
+#: single.php:145
+msgid 'Next post'
+msgstr ""
+
+#: single.php:36
+#: single.php:63
+#: single.php:92
+#: single.php:118
+#: single.php:148
+msgid 'Previous post'
+msgstr ""
+
+#: single.php:35
+#: single.php:62
+#: single.php:91
+#: single.php:117
+#: single.php:147
+msgid 'Previous'
+msgstr ""
+
+#: single.php:32
+#: single.php:59
+#: single.php:88
+#: single.php:114
+#: single.php:144
+msgid 'Next'
+msgstr ""
+
+#: template-parts/post/content-audio.php:42
+#: template-parts/post/content-gallery.php:30
+#: template-parts/post/content-image.php:19
+#: template-parts/post/content-video.php:42
+#: template-parts/post/content.php:25
+#: template-parts/post/grid-layout:24
+msgid 'READ MORE'
+msgstr ""
+
+#: inc/customizer.php:20
+msgid 'Theme Settings'
+msgstr ""
+
+#: inc/customizer.php:21
+msgid 'Description of what this panel does.'
+msgstr ""
+
+#: inc/customizer.php:121
+msgid 'Typography'
+msgstr ""
+
+#: inc/customizer.php:132
+msgid 'Paragraph Color'
+msgstr ""
+
+#: inc/customizer.php:146
+msgid 'Paragraph Fonts'
+msgstr ""
+
+#: inc/customizer.php:156
+msgid 'Paragraph Font Size'
+msgstr ""
+
+#: inc/customizer.php:168
+msgid '"a" Tag Color'
+msgstr ""
+
+#: inc/customizer.php:182
+msgid '"a" Tag Fonts'
+msgstr ""
+
+#: inc/customizer.php:193
+msgid '"li" Tag Color'
+msgstr ""
+
+#: inc/customizer.php:207
+msgid '"li" Tag Fonts'
+msgstr ""
+
+#: inc/customizer.php:218
+msgid 'h1 Color'
+msgstr ""
+
+#: inc/customizer.php:232
+msgid 'h1 Fonts'
+msgstr ""
+
+#: inc/customizer.php:243
+msgid 'h1 Font Size'
+msgstr ""
+
+#: inc/customizer.php:255
+msgid 'h2 Color'
+msgstr ""
+
+#: inc/customizer.php:269
+msgid 'h2 Fonts'
+msgstr ""
+
+#: inc/customizer.php:280
+msgid 'h2 Font Size'
+msgstr ""
+
+#: inc/customizer.php:292
+msgid 'h3 Color'
+msgstr ""
+
+#: inc/customizer.php:306
+msgid 'h3 Fonts'
+msgstr ""
+
+#: inc/customizer.php:317
+msgid 'h3 Font Size'
+msgstr ""
+
+#: inc/customizer.php:329
+msgid 'h4 Color'
+msgstr ""
+
+#: inc/customizer.php:343
+msgid 'h4 Fonts'
+msgstr ""
+
+#: inc/customizer.php:354
+msgid 'h4 Font Size'
+msgstr ""
+
+#: inc/customizer.php:366
+msgid 'h5 Color'
+msgstr ""
+
+#: inc/customizer.php:380
+msgid 'h5 Fonts'
+msgstr ""
+
+#: inc/customizer.php:391
+msgid 'h5 Font Size'
+msgstr ""
+
+#: inc/customizer.php:403
+msgid 'h6 Color'
+msgstr ""
+
+#: inc/customizer.php:417
+msgid 'h6 Fonts'
+msgstr ""
+
+#: inc/customizer.php:428
+msgid 'h6 Font Size'
+msgstr ""
+
+#: inc/customizer.php:436
+msgid 'Theme Color Option'
+msgstr ""
+
+#: inc/customizer.php:446
+msgid 'One can change complete theme color on just one click.'
+msgstr ""
+
+#: inc/customizer.php:453
+msgid 'Topbar Section'
+msgstr ""
+
+#: inc/customizer.php:454
+msgid 'Add topbar content'
+msgstr ""
+
+#: inc/customizer.php:464
+msgid 'Timing'
+msgstr ""
+
+#: inc/customizer.php:474
+msgid "Add Facebook link"
+msgstr ""
+
+#: inc/customizer.php:485
+msgid "Add Twitter link"
+msgstr ""
+
+#: inc/customizer.php:496
+msgid "Add Instagram link"
+msgstr ""
+
+#: inc/customizer.php:507
+msgid 'Add Linkedin link'
+msgstr ""
+
+#: inc/customizer.php:518
+msgid 'Add Pintrest link'
+msgstr ""
+
+#: inc/customizer.php:529
+msgid 'Add Youtube link'
+msgstr ""
+
+#: inc/customizer.php:537
+msgid 'Slider Settings'
+msgstr ""
+
+#: inc/customizer.php:548
+msgid 'Show / Hide slider'
+msgstr ""
+
+#: inc/customizer.php:560
+msgid 'Select Slide Image Page'
+msgstr ""
+
+#: inc/customizer.php:561
+msgid 'Size of image should be 1600 x 633'
+msgstr ""
+
+#: inc/customizer.php:569
+msgid 'Destination Section'
+msgstr ""
+
+#: inc/customizer.php:570
+msgid 'Add  section below.'
+msgstr ""
+
+#: inc/customizer.php:579
+msgid 'Section Title'
+msgstr ""
+
+#: inc/customizer.php:589
+msgid 'Section short description'
+msgstr ""
+
+#: inc/customizer.php:613
+msgid 'Select Category to display post'
+msgstr ""
+
+#: inc/customizer.php:614
+msgid 'Size of image should be 300 x 300'
+msgstr ""
+
+#: inc/customizer.php:620
+msgid 'Footer Text'
+msgstr ""
+
+#: inc/customizer.php:621
+msgid 'Add some text for footer like copyright etc.'
+msgstr ""
+
+#: inc/customizer.php:631
+msgid 'Copyright Text'
+msgstr ""
+
+#: inc/customizer.php:638
+msgid 'Sidebar Layout Settings'
+msgstr ""
+
+#: inc/customizer.php:645
+msgid 'Right Sidebar'
+msgstr ""
+
+#: inc/customizer.php:650
+msgid 'Change Layouts'
+msgstr ""
+
+#: inc/customizer.php:653
+msgid 'Left Sidebar'
+msgstr ""
+
+#: inc/customizer.php:654
+msgid 'Right Sidebar'
+msgstr ""
+
+#: inc/customizer.php:655
+msgid 'One Column'
+msgstr ""
+
+#: inc/customizer.php:656
+msgid 'Grid Layout'
+msgstr ""
+
+#: inc/customizer.php:737
+msgid 'Travel Pro Theme'
+msgstr ""
+
+#: inc/customizer.php:738
+msgid 'Go Pro'
+msgstr ""

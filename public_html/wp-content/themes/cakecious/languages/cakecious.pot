@@ -1,0 +1,2387 @@
+# Copyright (C) 2019 Cakecious
+# This file is distributed under the same license as the Cakecious package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cakecious\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Bolvo\n"
+"Last-Translator: Bolvo\n"
+"Report-Msgid-Bugs-To: https://bolvo.com\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:19
+msgid "404"
+msgstr ""
+
+#: 404.php:20
+msgid "Oops! That page can not be found"
+msgstr ""
+
+#: 404.php:21
+msgid "Sorry, but the page you are looking for does not exist."
+msgstr ""
+
+#: 404.php:22
+msgid "Go to home page"
+msgstr ""
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:47
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:72
+msgid " All Rights Reserved."
+msgstr ""
+
+#: footer.php:80
+msgid " Developed by Bolvo.com."
+msgstr ""
+
+#: footer.php:97
+msgctxt "label"
+msgid "Search"
+msgstr ""
+
+#: footer.php:101
+msgctxt "placeholder"
+msgid "Search ..."
+msgstr ""
+
+#: footer.php:103
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: index.php:35
+msgid "Search Results for: %s"
+msgstr ""
+
+#: index.php:59, page-templates/blog-2col.php:66
+msgid "<"
+msgstr ""
+
+#: index.php:60, page-templates/blog-2col.php:67
+msgid ">"
+msgstr ""
+
+#: index.php:61, page-templates/blog-2col.php:68
+msgid "Page"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:13
+msgid "Search"
+msgstr ""
+
+#: inc/custom-comments.php:13, inc/vc/tt_vc_team.php:20
+msgid "Name"
+msgstr ""
+
+#: inc/custom-comments.php:15
+msgid "Email"
+msgstr ""
+
+#: inc/custom-comments.php:17
+msgid "Website"
+msgstr ""
+
+#: inc/custom-comments.php:20
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: inc/custom-comments.php:28
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: inc/custom-comments.php:53
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/custom-comments.php:53
+msgid "(Edit)"
+msgstr ""
+
+#: inc/custom-comments.php:55
+msgid " Reply"
+msgstr ""
+
+#: inc/customizer.php:24
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:33
+msgid "Number of slides displaying at once"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "Slider Time (in ms)"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Loop Slider Content"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: inc/enqueue.php:61
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/setup.php:48
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/setup.php:51
+msgid "Left Menu"
+msgstr ""
+
+#: inc/setup.php:54
+msgid "Right Menu"
+msgstr ""
+
+#: inc/template-tags.php:17
+msgid " Edited %4$s"
+msgstr ""
+
+#: inc/template-tags.php:32
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:41, templates/entry-meta.php:14
+msgid "0 comment"
+msgstr ""
+
+#: inc/template-tags.php:41, inc/theme-functions.php:718, templates/entry-meta.php:14
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:41, inc/theme-functions.php:718, templates/entry-meta.php:14
+msgid "% Comments"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:67, inc/template-tags.php:71
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:68
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:73
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/theme-essentials.php:118
+msgid "Thanks for Activating Cakecious WordPress theme."
+msgstr ""
+
+#: inc/theme-essentials.php:121
+msgid "Theme requires few bundled plugins to function on its full power. Please Install and Activate plugins below."
+msgstr ""
+
+#: inc/theme-essentials.php:125
+msgid "You can choose not to install any particular plugin if you do not need it. eg woocommerce "
+msgstr ""
+
+#: inc/theme-essentials.php:130
+msgid "After plugins are activated, Click Dashboard on left top, then go to Theme Options menu for further setup."
+msgstr ""
+
+#: inc/theme-functions.php:683
+msgid "Previous"
+msgstr ""
+
+#: inc/theme-functions.php:697
+msgid "Next"
+msgstr ""
+
+#: inc/theme-functions.php:718
+msgid "Zero comments"
+msgstr ""
+
+#: inc/theme-functions.php:720
+msgid "Continue Reading &rarr;"
+msgstr ""
+
+#: inc/theme-functions.php:767
+msgid "tags "
+msgstr ""
+
+#: inc/theme-functions.php:899, inc/theme-functions.php:962
+msgid "Blog"
+msgstr ""
+
+#: inc/theme-functions.php:965
+msgid "Search Results for: "
+msgstr ""
+
+#: inc/theme-functions.php:1175, inc/theme-functions.php:1176
+msgid "Gallery"
+msgstr ""
+
+#: inc/theme-functions.php:1177, inc/theme-functions.php:1178
+msgid "Add Gallery"
+msgstr ""
+
+#: inc/theme-functions.php:1179, inc/theme-functions.php:1199
+msgid "Edit"
+msgstr ""
+
+#: inc/theme-functions.php:1180
+msgid "Edit Gallery"
+msgstr ""
+
+#: inc/theme-functions.php:1181
+msgid "New Gallery"
+msgstr ""
+
+#: inc/theme-functions.php:1182, inc/theme-functions.php:1183
+msgid "View Gallery"
+msgstr ""
+
+#: inc/theme-functions.php:1184
+msgid "Search Gallery"
+msgstr ""
+
+#: inc/theme-functions.php:1185
+msgid "No Gallery found"
+msgstr ""
+
+#: inc/theme-functions.php:1186
+msgid "No Gallery found in Trash"
+msgstr ""
+
+#: inc/theme-functions.php:1187
+msgid "Parent Gallery"
+msgstr ""
+
+#: inc/theme-functions.php:1195, inc/theme-functions.php:1196
+msgid "Event"
+msgstr ""
+
+#: inc/theme-functions.php:1197, inc/theme-functions.php:1198
+msgid "Add Event"
+msgstr ""
+
+#: inc/theme-functions.php:1200
+msgid "Edit Event"
+msgstr ""
+
+#: inc/theme-functions.php:1201
+msgid "New Event"
+msgstr ""
+
+#: inc/theme-functions.php:1202, inc/theme-functions.php:1203
+msgid "View Event"
+msgstr ""
+
+#: inc/theme-functions.php:1204
+msgid "Search Event"
+msgstr ""
+
+#: inc/theme-functions.php:1205
+msgid "No Event found"
+msgstr ""
+
+#: inc/theme-functions.php:1206
+msgid "No Event found in Trash"
+msgstr ""
+
+#: inc/theme-functions.php:1207
+msgid "Parent Event"
+msgstr ""
+
+#: inc/theme-metabox.php:34
+msgid "Hide default title display in middle content area."
+msgstr ""
+
+#: inc/theme-metabox.php:35
+msgid "In some case, you might want to hide the default title display. Check this to hide title. If you are not sure about it  leave it unchecked. This does not apply if you enable Hero Section for this page."
+msgstr ""
+
+#: inc/theme-metabox.php:41
+msgid "Disable top padding."
+msgstr ""
+
+#: inc/theme-metabox.php:42
+msgid "By default there is padding on top before the content area starts. Disable it here if you want to."
+msgstr ""
+
+#: inc/theme-metabox.php:48
+msgid "Disable bottom padding."
+msgstr ""
+
+#: inc/theme-metabox.php:49
+msgid "By default there is padding on bottom before the footer area starts. Disable it here if you want to. Note: The top padding applies only when you disable Hero area, so that option is in Hero Area section, seen when you disable Hero Image."
+msgstr ""
+
+#: inc/theme-metabox.php:55
+msgid "Footer newsletter type."
+msgstr ""
+
+#: inc/theme-metabox.php:56
+msgid "This overrides the global setting done on Themeoptions for footer newsletter type. By default footer newsletter appears in transparent bg. You can select colored background version here.."
+msgstr ""
+
+#: inc/theme-metabox.php:58, inc/theme-metabox.php:91
+msgid "As set in Themeoptions"
+msgstr ""
+
+#: inc/theme-metabox.php:59
+msgid "Transparent"
+msgstr ""
+
+#: inc/theme-metabox.php:60
+msgid "Colored"
+msgstr ""
+
+#: inc/theme-metabox.php:61
+msgid "Do not display"
+msgstr ""
+
+#: inc/theme-metabox.php:68
+msgid "Insert breadcrumbs in Hero section."
+msgstr ""
+
+#: inc/theme-metabox.php:69
+msgid "Insert breadcrumb in this area. Note: Breadcrumb Trail plugin must be active."
+msgstr ""
+
+#: inc/theme-metabox.php:88
+msgid "Select header type."
+msgstr ""
+
+#: inc/theme-metabox.php:89
+msgid "This overrides the global setting done on Themeoptions for this page. Demos for these headers can be seen in homepage variations of main demo, or you can just try them."
+msgstr ""
+
+#: inc/theme-metabox.php:92
+msgid "Default header"
+msgstr ""
+
+#: inc/theme-metabox.php:93
+msgid "Header Type 2"
+msgstr ""
+
+#: inc/theme-metabox.php:94
+msgid "Header Type 3"
+msgstr ""
+
+#: inc/theme-metabox.php:95
+msgid "Header Type 4"
+msgstr ""
+
+#: inc/theme-metabox.php:96
+msgid "Header Type 5"
+msgstr ""
+
+#: inc/theme-metabox.php:115
+msgid "Enable Hero section on this page"
+msgstr ""
+
+#: inc/theme-metabox.php:116
+msgid "Hero section appears after header and before content area. Note: Hero section is full liquid width. If you want boxed Hero section, use page composer to build it please. Note: Page builder plugin must be active for Hero section to work."
+msgstr ""
+
+#: inc/theme-metabox.php:122
+msgid "Main Title."
+msgstr ""
+
+#: inc/theme-metabox.php:123
+msgid "Appears as highlight text in Hero section. If left blank, displays page title as default. If you want to show nothing, check below please."
+msgstr ""
+
+#: inc/theme-metabox.php:129
+msgid "Hide Title"
+msgstr ""
+
+#: inc/theme-metabox.php:130
+msgid "At times, you might want just to display the image in Hero section without any title displayed on it. Enable this button to disable any title text over the Hero section image."
+msgstr ""
+
+#: inc/theme-metabox.php:136
+msgid "Description(Optional)."
+msgstr ""
+
+#: inc/theme-metabox.php:137
+msgid "Appears below highlight text in Hero section."
+msgstr ""
+
+#: inc/theme-metabox.php:143
+msgid "Hero area background"
+msgstr ""
+
+#: inc/theme-metabox.php:144
+msgid "This image appears in background of hero section above. Recommended image size is 1300x400 px."
+msgstr ""
+
+#: inc/theme-metabox.php:167
+msgid "Date/Time for the Event."
+msgstr ""
+
+#: inc/theme-metabox.php:168
+msgid "eg: 19 August 2017, (Saturday) 8:00 am - 10:00 am."
+msgstr ""
+
+#: inc/theme-metabox.php:175
+msgid "Label for Time of event."
+msgstr ""
+
+#: inc/theme-metabox.php:176, inc/theme-metabox.php:191, inc/theme-metabox.php:209
+msgid "Just in case you want to change it. "
+msgstr ""
+
+#: inc/theme-metabox.php:183
+msgid "Location for the Event."
+msgstr ""
+
+#: inc/theme-metabox.php:190
+msgid "Label for Location of event."
+msgstr ""
+
+#: inc/theme-metabox.php:198
+msgid "Schedule for the Event."
+msgstr ""
+
+#: inc/theme-metabox.php:199
+msgid "Use # for line break."
+msgstr ""
+
+#: inc/theme-metabox.php:208
+msgid "Label for Schedule of event."
+msgstr ""
+
+#: inc/theme-options.php:30
+msgid "General Settings"
+msgstr ""
+
+#: inc/theme-options.php:32
+msgid "General Settings."
+msgstr ""
+
+#: inc/theme-options.php:37
+msgid "Quick Start"
+msgstr ""
+
+#: inc/theme-options.php:48
+msgid "Thanks for purchasing and installing this theme. From here you can customize almost everything in the theme. If you need help, please %1$s we will be more than happy to help. "
+msgstr ""
+
+#: inc/theme-options.php:48
+msgid "contact support"
+msgstr ""
+
+#: inc/theme-options.php:55
+msgid "Use Logo"
+msgstr ""
+
+#: inc/theme-options.php:56
+msgid "If disabled, the default site title appears instead of logo. You can edit that title in Settings -> General."
+msgstr ""
+
+#: inc/theme-options.php:62
+msgid "Upload Main Logo"
+msgstr ""
+
+#: inc/theme-options.php:64
+msgid "Upload a logo for your theme, or specify an image URL directly. "
+msgstr ""
+
+#: inc/theme-options.php:65
+msgid "If no logo uploaded, default logo appears. Default logo size is 157x68 px."
+msgstr ""
+
+#: inc/theme-options.php:73
+msgid "Upload Secondary Logo"
+msgstr ""
+
+#: inc/theme-options.php:75
+msgid "Some header type have different kind of logo. You can upload secondary logo if you want. It will be displayed on relevant header type. If you dont want different logo, please just reupload above logo here as well."
+msgstr ""
+
+#: inc/theme-options.php:82
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/theme-options.php:83
+msgid "If enabled, website shows a preloader icon before the page loads."
+msgstr ""
+
+#: inc/theme-options.php:89
+msgid "Enable Header Search"
+msgstr ""
+
+#: inc/theme-options.php:90
+msgid "If enabled, search icon appears after the top menu bar."
+msgstr ""
+
+#: inc/theme-options.php:96
+msgid "Where to search"
+msgstr ""
+
+#: inc/theme-options.php:97
+msgid "In header search, you can choose to search for Posts or Products."
+msgstr ""
+
+#: inc/theme-options.php:98
+msgid "Default: Post."
+msgstr ""
+
+#: inc/theme-options.php:108
+msgid "Enable Header Cart"
+msgstr ""
+
+#: inc/theme-options.php:109
+msgid "If enabled, cart icon appears in the top menu bar."
+msgstr ""
+
+#: inc/theme-options.php:115
+msgid "Enable Product Sidebar"
+msgstr ""
+
+#: inc/theme-options.php:116
+msgid "By default, Sidebar on Single product page is disabled, check to enable. If enabled, the widgets placed in Shop sidebar will appear in single product page."
+msgstr ""
+
+#: inc/theme-options.php:122
+msgid "Disable Hero Title"
+msgstr ""
+
+#: inc/theme-options.php:123
+msgid "The section that appear just below the header on pages, the hero section, displays page title by default. If you want image only Hero, turning on this option will remove Hero title globally."
+msgstr ""
+
+#: inc/theme-options.php:132
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/theme-options.php:142
+msgid "Custom Css"
+msgstr ""
+
+#: inc/theme-options.php:143
+msgid "Now as WordPress customiser already has the feature to add Additional Css, to have things consolidated, please add css to Appearance -> Customise -> Additional CSS or go there by %s."
+msgstr ""
+
+#: inc/theme-options.php:143
+msgid "Clicking Here"
+msgstr ""
+
+#: inc/theme-options.php:154
+msgid "Styling"
+msgstr ""
+
+#: inc/theme-options.php:165
+msgid "Live Customizer"
+msgstr ""
+
+#: inc/theme-options.php:166
+msgid "Please note that theme main colors settings can also be done using Live customizer, you can see live preview if you use live customizer. %1$s."
+msgstr ""
+
+#: inc/theme-options.php:166
+msgid "Go to Live Customer (Appearance-Customize) by clicking here"
+msgstr ""
+
+#: inc/theme-options.php:171
+msgid "Main Accent Color"
+msgstr ""
+
+#: inc/theme-options.php:172
+msgid "Main accent color of the theme(The Orange tone color). Note: Some color are powered by page builder/images. Contact support if you need help."
+msgstr ""
+
+#: inc/theme-options.php:173
+msgid "Default: leave blank."
+msgstr ""
+
+#: inc/theme-options.php:180
+msgid "Footer Background"
+msgstr ""
+
+#: inc/theme-options.php:181
+msgid "Select background image or color for footer area, where footer widget appears."
+msgstr ""
+
+#: inc/theme-options.php:194
+msgid "Body Font"
+msgstr ""
+
+#: inc/theme-options.php:195
+msgid "You can change the body font here. This is regular text font overall. Also a fallback font."
+msgstr ""
+
+#: inc/theme-options.php:207
+msgid "Heading Font"
+msgstr ""
+
+#: inc/theme-options.php:208
+msgid "You can change the heading font here if you want to. Keep blank for default settings. The alternate demo has Playfair Display font and #3e606b color."
+msgstr ""
+
+#: inc/theme-options.php:217
+msgid "Further Styling Info"
+msgstr ""
+
+#: inc/theme-options.php:218
+msgid "If you want to customise the theme further, eg more css edits or custom fonts. Its recommended that you use this plugin https://wordpress.org/plugins/easy-google-fonts/ for using other Google fonts and %1$s for deeper css customisation using point and click interface."
+msgstr ""
+
+#: inc/theme-options.php:218
+msgid "Site Origin CSS plugin"
+msgstr ""
+
+#: inc/theme-options.php:228
+msgid "Layout (Header/Menu)"
+msgstr ""
+
+#: inc/theme-options.php:230
+msgid "Layout Settings for Sidebar and Header."
+msgstr ""
+
+#: inc/theme-options.php:237
+msgid "Header/Menu Layout"
+msgstr ""
+
+#: inc/theme-options.php:238
+msgid "Select header layout. "
+msgstr ""
+
+#: inc/theme-options.php:239
+msgid "Choose header layout. Note: This setting can be setup on per page basis too from page settings. For example, you can have Default header globally but can set header 2 on landing page for a new page. Demos for these headers can be seen in homepage variations of main demo, or you can just try them."
+msgstr ""
+
+#: inc/theme-options.php:273
+msgid "Special Topbar"
+msgstr ""
+
+#: inc/theme-options.php:274
+msgid "Header 1, 2 and 5 has specially designed top bar, that appears above the header. If you want to use default topbar(controlled by settings found below this page) turn this off please. ( Recommended: on) ."
+msgstr ""
+
+#: inc/theme-options.php:275
+msgid "Not applicable on header 3 and 4."
+msgstr ""
+
+#: inc/theme-options.php:282
+msgid "Phone text"
+msgstr ""
+
+#: inc/theme-options.php:283
+msgid "This text appears below the phone number in right side of header. The phone number can be put in Social / Contact Settings tab of this panel."
+msgstr ""
+
+#: inc/theme-options.php:292
+msgid "Button text"
+msgstr ""
+
+#: inc/theme-options.php:293
+msgid "This text appears on right side button that appears in menu bar. Keep blank to disable button."
+msgstr ""
+
+#: inc/theme-options.php:302
+msgid "Button link"
+msgstr ""
+
+#: inc/theme-options.php:303
+msgid "This link gets applied on above text/button."
+msgstr ""
+
+#: inc/theme-options.php:314
+msgid "Toppest Bar Settings"
+msgstr ""
+
+#: inc/theme-options.php:315
+msgid "Below settings are for the top most navigation bar which is optional. It adds some usual user interface items. There is limited space on this bar , so be careful in choosing what part you really need. You can try it out and disable things later if bar goes out of space. Note: Top nav background color can be changed from Styling tab."
+msgstr ""
+
+#: inc/theme-options.php:320
+msgid "Enable Top Nav Bar"
+msgstr ""
+
+#: inc/theme-options.php:321
+msgid "Enable/Disable the Top most nav bar globally."
+msgstr ""
+
+#: inc/theme-options.php:370
+msgid "Teaser Text"
+msgstr ""
+
+#: inc/theme-options.php:371
+msgid "Teaser text is short sentence that you want to highlight. eg : Our helpline number : xyz. This text appears on left most side of top bar."
+msgstr ""
+
+#: inc/theme-options.php:379
+msgid "Hero area Global background"
+msgstr ""
+
+#: inc/theme-options.php:381
+msgid "In this theme, heading area of page shows Hero section, which has an image in background. You can set that background image on per page basis. But choose one global image here which applies by default."
+msgstr ""
+
+#: inc/theme-options.php:391
+msgid "Footer Customization"
+msgstr ""
+
+#: inc/theme-options.php:402
+msgid "Footer area customization"
+msgstr ""
+
+#: inc/theme-options.php:403
+msgid "Customize footer area here. Note: Background colors for footer areas can be changed from Styling tab."
+msgstr ""
+
+#: inc/theme-options.php:408
+msgid "Footer Newsletter Section"
+msgstr ""
+
+#: inc/theme-options.php:409
+msgid "If you want to have newsletter in the footer, please do required here."
+msgstr ""
+
+#: inc/theme-options.php:415
+msgid "Enable Footer newsletter"
+msgstr ""
+
+#: inc/theme-options.php:421
+msgid "Newsletter Title"
+msgstr ""
+
+#: inc/theme-options.php:428
+msgid "Enter your mailchimp code.. "
+msgstr ""
+
+#: inc/theme-options.php:429
+msgid "You can get it from Mailchimp list > Signup forms > Embedded Forms > Naked. Please make sure to check the Only Required Fields only checkbox on left, And then copy the code provided on bottom right of page please."
+msgstr ""
+
+#: inc/theme-options.php:436
+msgid "Enable Colored Background."
+msgstr ""
+
+#: inc/theme-options.php:437
+msgid "This setting can also be overridden for particular page from the Page editor bottom section."
+msgstr ""
+
+#: inc/theme-options.php:451
+msgid "Footer Widget Areas"
+msgstr ""
+
+#: inc/theme-options.php:452
+msgid "Select how many footer widget areas you want to display."
+msgstr ""
+
+#: inc/theme-options.php:453
+msgid "Select default sidebar position for the website. Note: The last option is theme specific layout(if applicable).)"
+msgstr ""
+
+#: inc/theme-options.php:478
+msgid "Enable Custom Footer"
+msgstr ""
+
+#: inc/theme-options.php:479, inc/theme-options.php:496
+msgid "Activate to add the custom text below to the theme footer."
+msgstr ""
+
+#: inc/theme-options.php:480, inc/theme-options.php:497
+msgid "If turned off, default text will appear."
+msgstr ""
+
+#: inc/theme-options.php:487
+msgid "Custom Text "
+msgstr ""
+
+#: inc/theme-options.php:488
+msgid "Custom HTML and Text that will appear in the extreme footer of your theme."
+msgstr ""
+
+#: inc/theme-options.php:495
+msgid "Enable Custom Footer (Right)"
+msgstr ""
+
+#: inc/theme-options.php:504
+msgid "Custom Text (Right)"
+msgstr ""
+
+#: inc/theme-options.php:505
+msgid "Custom HTML and Text that will appear in the lower footer of your theme."
+msgstr ""
+
+#: inc/theme-options.php:519
+msgid "Social / Contact Settings"
+msgstr ""
+
+#: inc/theme-options.php:527
+msgid "Telephone"
+msgstr ""
+
+#: inc/theme-options.php:528
+msgid "Enter your telephone number"
+msgstr ""
+
+#: inc/theme-options.php:534
+msgid "Contact Form E-Mail"
+msgstr ""
+
+#: inc/theme-options.php:535
+msgid "Enter your E-mail address to use on the 'Contact Form' page Template."
+msgstr ""
+
+#: inc/theme-options.php:541
+msgid "Enable RSS"
+msgstr ""
+
+#: inc/theme-options.php:542
+msgid "Enable the subscribe and RSS icon."
+msgstr ""
+
+#: inc/theme-options.php:548
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/theme-options.php:549
+msgid "Enter your %1$s URL e.g. http://www.twitter.com/templatation"
+msgstr ""
+
+#: inc/theme-options.php:549, templates/tt-social.php:31
+msgid "Twitter"
+msgstr ""
+
+#: inc/theme-options.php:555
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/theme-options.php:556
+msgid "Enter your %1$s URL e.g. http://www.facebook.com/templatation"
+msgstr ""
+
+#: inc/theme-options.php:556, templates/tt-social.php:34
+msgid "Facebook"
+msgstr ""
+
+#: inc/theme-options.php:562
+msgid "YouTube URL"
+msgstr ""
+
+#: inc/theme-options.php:563
+msgid "Enter your %1$s URL e.g. http://www.youtube.com/templatation"
+msgstr ""
+
+#: inc/theme-options.php:563, templates/tt-social.php:37
+msgid "YouTube"
+msgstr ""
+
+#: inc/theme-options.php:569
+msgid "Flickr URL"
+msgstr ""
+
+#: inc/theme-options.php:570
+msgid "Enter your %1$s URL e.g. http://www.flickr.com/templatation"
+msgstr ""
+
+#: inc/theme-options.php:570, templates/tt-social.php:40
+msgid "Flickr"
+msgstr ""
+
+#: inc/theme-options.php:576
+msgid "LinkedIn URL"
+msgstr ""
+
+#: inc/theme-options.php:577
+msgid "Enter your %1$s URL e.g. http://www.linkedin.com/in/templatation"
+msgstr ""
+
+#: inc/theme-options.php:577, templates/tt-social.php:43
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/theme-options.php:583
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/theme-options.php:584
+msgid "Enter your %1$s URL e.g. http://www.pinterest.com/templatation"
+msgstr ""
+
+#: inc/theme-options.php:584, templates/tt-social.php:46
+msgid "Pinterest"
+msgstr ""
+
+#: inc/theme-options.php:590
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/theme-options.php:591
+msgid "Enter your %1$s URL e.g. http://www.instagram.com/templatation"
+msgstr ""
+
+#: inc/theme-options.php:591, templates/tt-social.php:49
+msgid "Instagram"
+msgstr ""
+
+#: inc/theme-options.php:597
+msgid "Google+ URL"
+msgstr ""
+
+#: inc/theme-options.php:598
+msgid "Enter your %1$s URL e.g. https://plus.google.com/104560124403688998123/"
+msgstr ""
+
+#: inc/theme-options.php:598, templates/tt-social.php:52
+msgid "Google+"
+msgstr ""
+
+#: inc/theme-options.php:604
+msgid "Open in New tab"
+msgstr ""
+
+#: inc/theme-options.php:605
+msgid "If this is turned on, the social icon links open in new tab instead of same window."
+msgstr ""
+
+#: inc/theme-options.php:616, inc/theme-options.php:626
+msgid "Included Plugins"
+msgstr ""
+
+#: inc/theme-options.php:627
+msgid "The theme requires/recommends some plugin to function properly. Theme also includes some premium plugins with your purchase, to manage plugins, please go to Appearance -> Install plugins. Note: The menu only appears if all required plugins are not activated. So not to worry if you do not find that menu link."
+msgstr ""
+
+#: inc/theme-options.php:627, inc/theme-options.php:653
+msgid "Click Here"
+msgstr ""
+
+#: inc/theme-options.php:633
+msgid "Theme Updates"
+msgstr ""
+
+#: inc/theme-options.php:644
+msgid "Theme Update"
+msgstr ""
+
+#: inc/theme-options.php:645
+msgid "The theme is regularly updated with new features and other bug fixes and improvement. You can activate Envato plugin for hassle free theme updates whenever update is available without having to download from Themeforest. Note if you modified any theme files, it will be overwritten with update. Again, make sure to keep regular backups. You can use awesome free plugin named %1$s  to create backups periodically(automatically) without hassles."
+msgstr ""
+
+#: inc/theme-options.php:645
+msgid "UpdraftPlus"
+msgstr ""
+
+#: inc/theme-options.php:652
+msgid "Step by Step instruction to setup easy updates."
+msgstr ""
+
+#: inc/theme-options.php:653
+msgid "Please %1s for complete instruction to setup the updater plugin and update easily in future."
+msgstr ""
+
+#: inc/theme-woocommerce.php:173
+msgid "View your shopping cart : "
+msgstr ""
+
+#: inc/theme-woocommerce.php:192
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/theme-woocommerce.php:192
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/widgets.php:10
+msgid "Sidebar ( Default )"
+msgstr ""
+
+#: inc/widgets.php:12
+msgid "Sidebar widget area."
+msgstr ""
+
+#: inc/widgets.php:20
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/widgets.php:22
+msgid "This sidebar appears on Shop page."
+msgstr ""
+
+#: inc/widgets.php:35
+msgid "Footer %d"
+msgstr ""
+
+#: inc/widgets.php:37
+msgid "Widgetized Footer Region %d."
+msgstr ""
+
+#: page-templates/blog-2col.php:3
+msgid "Blog 2 Column"
+msgstr ""
+
+#: page-templates/blog-2col.php:52, templates/content.php:20
+msgid "Read more"
+msgstr ""
+
+#: page-templates/empty.php:3
+msgid "Totally Empty Page"
+msgstr ""
+
+#: page-templates/noheader.php:3
+msgid "No header/ No footer"
+msgstr ""
+
+#: page-templates/pagewithsidebar.php:3
+msgid "Page with Sidebar"
+msgstr ""
+
+#: templates/content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: templates/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: templates/content-none.php:28
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: templates/content-none.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: templates/content-page.php:21, templates/content-portfolio.php:17, templates/content-project.php:17, templates/content-single.php:22
+msgid "Pages:"
+msgstr ""
+
+#: templates/entry-meta.php:8
+msgid "By: "
+msgstr ""
+
+#: templates/header1.php:12, templates/header2.php:12, templates/header3.php:42, templates/header4.php:11, templates/header5.php:12
+msgid "Toggle navigation"
+msgstr ""
+
+#: templates/tt-content-product.php:33, templates/tt-product-arr-sldr.php:39, templates/tt-product-carousel.php:44, templates/tt-product-carousel2.php:53
+msgid "Awaiting product image"
+msgstr ""
+
+#: templates/tt-events.php:51, templates/tt-industries.php:38, templates/tt-posts-sc.php:37, templates/tt-posttitleonly.php:26, templates/tt-product-arr-sldr.php:99, templates/tt-product-carousel.php:104, templates/tt-product-carousel2.php:113, templates/tt-project-full.php:63, templates/tt-project-text.php:65, templates/tt-testimonial-list.php:44, templates/tt-testimonial.php:49
+msgid "Posts not found"
+msgstr ""
+
+#: templates/tt-industries.php:28
+msgid "view details"
+msgstr ""
+
+#: templates/tt-post-author.php:21
+msgid "View all posts by %s"
+msgstr ""
+
+#: templates/tt-product-carousel2.php:18
+msgid "View all Products"
+msgstr ""
+
+#: templates/tt-project-full.php:21, templates/tt-project-text.php:22
+msgid "All"
+msgstr ""
+
+#: templates/tt-social.php:55
+msgid "RSS"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/tgm-activation/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/tgm-activation/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:341
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:347
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:353
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:359
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:365
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:371
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:393, inc/tgm-activation/class-tgm-plugin-activation.php:904, inc/tgm-activation/class-tgm-plugin-activation.php:2610, inc/tgm-activation/class-tgm-plugin-activation.php:3657
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:394, inc/tgm-activation/class-tgm-plugin-activation.php:3236
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:395, inc/tgm-activation/class-tgm-plugin-activation.php:3029
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/tgm-activation/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm-activation/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/tgm-activation/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:599
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:600
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:1011
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:1011, inc/tgm-activation/class-tgm-plugin-activation.php:1014
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:1014
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:1198, inc/tgm-activation/class-tgm-plugin-activation.php:3025
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2059
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2350
+msgid "Required"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2353
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2369
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2372
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2375
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2392
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2396
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2398
+msgid "Active"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2404
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2407
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2410
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2419
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2465
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2469
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2473
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2477
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2559
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2567
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2575
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2587
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2610
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2624
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2625
+msgid "Source"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2626, inc/vc/tt_vc_feature.php:91, inc/vc/tt_vc_feature2.php:70, inc/vc/tt_vc_home1contact.php:48, inc/vc/tt_vc_home3wedo.php:42, inc/vc/tt_vc_imgshadow.php:28, inc/vc/tt_vc_service.php:91, inc/vc/tt_vc_title.php:35
+msgid "Type"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2630
+msgid "Version"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2631
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2680
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2685
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2691
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2761
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2794
+msgid "Install"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2800
+msgid "Update"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2803
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2834
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2836
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2877
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2879
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:2985
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:3011
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:3235
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-activation/class-tgm-plugin-activation.php:3575
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm-activation/class-tgm-plugin-activation.php:3578
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm-activation/class-tgm-plugin-activation.php:3580
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:3584
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm-activation/class-tgm-plugin-activation.php:3586
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:3586, inc/tgm-activation/class-tgm-plugin-activation.php:3594
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:3586, inc/tgm-activation/class-tgm-plugin-activation.php:3594
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:3587
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-activation/class-tgm-plugin-activation.php:3589
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:3592
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm-activation/class-tgm-plugin-activation.php:3594
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm-activation/class-tgm-plugin-activation.php:3595
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-activation/class-tgm-plugin-activation.php:3597
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-activation/tt-plugins.php:66
+msgid "Templatation Framework"
+msgstr ""
+
+#: inc/tgm-activation/tt-plugins.php:70
+msgid "2.7"
+msgstr ""
+
+#: inc/tgm-activation/tt-plugins.php:77
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/tgm-activation/tt-plugins.php:99
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: inc/vc/tt_our_approach.php:12
+msgid "CKC Our Approach"
+msgstr ""
+
+#: inc/vc/tt_our_approach.php:15
+msgid "This block is used on homepage 2."
+msgstr ""
+
+#: inc/vc/tt_our_approach.php:16, inc/vc/tt_vc_aboutme.php:15, inc/vc/tt_vc_accordion.php:19, inc/vc/tt_vc_accordion.php:40, inc/vc/tt_vc_add_content.php:15, inc/vc/tt_vc_beforeafter.php:16, inc/vc/tt_vc_button.php:16, inc/vc/tt_vc_comingsoon.php:14, inc/vc/tt_vc_contacticons.php:16, inc/vc/tt_vc_countdown.php:15, inc/vc/tt_vc_cta.php:15, inc/vc/tt_vc_feature.php:16, inc/vc/tt_vc_feature1.php:15, inc/vc/tt_vc_feature2.php:16, inc/vc/tt_vc_hilitepost.php:15, inc/vc/tt_vc_home1contact.php:15, inc/vc/tt_vc_home3wedo.php:19, inc/vc/tt_vc_home3wedo.php:62, inc/vc/tt_vc_imgshadow.php:15, inc/vc/tt_vc_item_list.php:16, inc/vc/tt_vc_logo_carousel.php:14, inc/vc/tt_vc_newarrival.php:15, inc/vc/tt_vc_practise.php:16, inc/vc/tt_vc_service.php:16, inc/vc/tt_vc_serviceblock.php:15, inc/vc/tt_vc_servicefeature.php:17, inc/vc/tt_vc_servicefeature.php:38, inc/vc/tt_vc_splrecipe.php:19, inc/vc/tt_vc_splrecipe.php:40, inc/vc/tt_vc_team.php:16, inc/vc/tt_vc_title.php:16, inc/vc/tt_vc_video.php:15, inc/vc/tt_vc_wc_sc.php:19, inc/vc/tt_vc_wc_sc.php:40
+msgid "Cakecious"
+msgstr ""
+
+#: inc/vc/tt_our_approach.php:21, inc/vc/tt_vc_title.php:21
+msgid "Main title"
+msgstr ""
+
+#: inc/vc/tt_our_approach.php:28, inc/vc/tt_vc_aboutme.php:50, inc/vc/tt_vc_beforeafter.php:20, inc/vc/tt_vc_feature.php:48, inc/vc/tt_vc_feature1.php:19, inc/vc/tt_vc_hilitepost.php:19, inc/vc/tt_vc_home1contact.php:27, inc/vc/tt_vc_home3wedo.php:75, inc/vc/tt_vc_imgshadow.php:20, inc/vc/tt_vc_newarrival.php:19, inc/vc/tt_vc_practise.php:27, inc/vc/tt_vc_service.php:48, inc/vc/tt_vc_serviceblock.php:19, inc/vc/tt_vc_splrecipe.php:46, inc/vc/tt_vc_team.php:35
+msgid "Image"
+msgstr ""
+
+#: inc/vc/tt_our_approach.php:31
+msgid "This image appears on left side of the block."
+msgstr ""
+
+#: inc/vc/tt_our_approach.php:36, inc/vc/tt_vc_comingsoon.php:34, inc/vc/tt_vc_contacticons.php:49, inc/vc/tt_vc_feature.php:77, inc/vc/tt_vc_feature2.php:48, inc/vc/tt_vc_home3wedo.php:30, inc/vc/tt_vc_item_list.php:28, inc/vc/tt_vc_service.php:77, inc/vc/tt_vc_servicefeature.php:73, inc/vc/tt_vc_splrecipe.php:62, inc/vc/tt_vc_title.php:29
+msgid "Description"
+msgstr ""
+
+#: inc/vc/tt_our_approach.php:42, inc/vc/tt_vc_team.php:42
+msgid "Icon 1"
+msgstr ""
+
+#: inc/vc/tt_our_approach.php:49
+msgid "Icon 1 label"
+msgstr ""
+
+#: inc/vc/tt_our_approach.php:56
+msgid "Icon 1 label line 2"
+msgstr ""
+
+#: inc/vc/tt_our_approach.php:62, inc/vc/tt_vc_team.php:65
+msgid "Icon 2"
+msgstr ""
+
+#: inc/vc/tt_our_approach.php:69
+msgid "Icon 2 label"
+msgstr ""
+
+#: inc/vc/tt_our_approach.php:76
+msgid "Icon 2 label line 2"
+msgstr ""
+
+#: inc/vc/tt_our_approach.php:82, inc/vc/tt_vc_team.php:88
+msgid "Icon 3"
+msgstr ""
+
+#: inc/vc/tt_our_approach.php:89
+msgid "Icon 3 label"
+msgstr ""
+
+#: inc/vc/tt_our_approach.php:96
+msgid "Icon 3 label line 2"
+msgstr ""
+
+#: inc/vc/tt_vc_aboutme.php:12
+msgid "CKC About me"
+msgstr ""
+
+#: inc/vc/tt_vc_aboutme.php:20, inc/vc/tt_vc_beforeafter.php:28, inc/vc/tt_vc_comingsoon.php:19, inc/vc/tt_vc_contacticons.php:41, inc/vc/tt_vc_cta.php:20, inc/vc/tt_vc_feature.php:70, inc/vc/tt_vc_feature1.php:37, inc/vc/tt_vc_feature2.php:40, inc/vc/tt_vc_hilitepost.php:37, inc/vc/tt_vc_home3wedo.php:23, inc/vc/tt_vc_home3wedo.php:68, inc/vc/tt_vc_item_list.php:20, inc/vc/tt_vc_newarrival.php:36, inc/vc/tt_vc_practise.php:20, inc/vc/tt_vc_service.php:70, inc/vc/tt_vc_servicefeature.php:65, inc/vc/tt_vc_splrecipe.php:54, inc/vc/tt_vc_video.php:20
+msgid "Title"
+msgstr ""
+
+#: inc/vc/tt_vc_aboutme.php:28
+msgid "Bold description"
+msgstr ""
+
+#: inc/vc/tt_vc_aboutme.php:36
+msgid "Normal description"
+msgstr ""
+
+#: inc/vc/tt_vc_aboutme.php:43
+msgid "Button"
+msgstr ""
+
+#: inc/vc/tt_vc_aboutme.php:44
+msgid "If you want a button on the bottom, enter anchor text and link here. Leave as it is for no button."
+msgstr ""
+
+#: inc/vc/tt_vc_aboutme.php:53
+msgid "Image for this item. Size 875x550 preferred."
+msgstr ""
+
+#: inc/vc/tt_vc_accordion.php:12
+msgid "CKC Accordion"
+msgstr ""
+
+#: inc/vc/tt_vc_accordion.php:15
+msgid "Accordion Set"
+msgstr ""
+
+#: inc/vc/tt_vc_accordion.php:23, inc/vc/tt_vc_home3wedo.php:35, inc/vc/tt_vc_servicefeature.php:21, inc/vc/tt_vc_splrecipe.php:23
+msgid "Please click Save button below and then select its child shortcode to enter items."
+msgstr ""
+
+#: inc/vc/tt_vc_accordion.php:24, inc/vc/tt_vc_home3wedo.php:36, inc/vc/tt_vc_servicefeature.php:22, inc/vc/tt_vc_splrecipe.php:24, inc/vc/tt_vc_wc_sc.php:24
+msgid "Above field is for information purpose only."
+msgstr ""
+
+#: inc/vc/tt_vc_accordion.php:37, inc/vc/tt_vc_accordion.php:53, inc/vc/tt_vc_wc_sc.php:37, inc/vc/tt_vc_wc_sc.php:53
+msgid "Accordion Content"
+msgstr ""
+
+#: inc/vc/tt_vc_accordion.php:46, inc/vc/tt_vc_wc_sc.php:46
+msgid "Accordion Title"
+msgstr ""
+
+#: inc/vc/tt_vc_accordion.php:58, inc/vc/tt_vc_wc_sc.php:58
+msgid "Active by default"
+msgstr ""
+
+#: inc/vc/tt_vc_accordion.php:60, inc/vc/tt_vc_wc_sc.php:60
+msgid "Keep this open on page load? Please make sure you only choose Yes in one of the items."
+msgstr ""
+
+#: inc/vc/tt_vc_accordion.php:62, inc/vc/tt_vc_wc_sc.php:62
+msgid " No"
+msgstr ""
+
+#: inc/vc/tt_vc_accordion.php:63, inc/vc/tt_vc_wc_sc.php:63
+msgid " Yes"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:11
+msgid "CKC Add Content"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:14
+msgid "Add various content objects."
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:20
+msgid "Number of posts displayed"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:22
+msgid "The number of posts you want to show."
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:27
+msgid "Content Type"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:29
+msgid "Not all content type will be listed here. We list only those we have template in this theme for."
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:32
+msgid " Posts"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:33
+msgid " Testimonials"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:34
+msgid " Gallery"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:35
+msgid " Services"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:36
+msgid " Events"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:37
+msgid " Products"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:42
+msgid "Enable Filter ?"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:44
+msgid "If set to yes, the gallery is filterable by the category. Not applicable to all cases."
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:53
+msgid "Enable ALL button ?"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:55
+msgid "If set to yes, All link appears first that displays all items. Not applicable to all cases."
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:64
+msgid "Order by"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:66
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:68
+msgid " Date"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:69
+msgid " Post ID"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:70
+msgid " Author"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:71
+msgid " Title"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:72
+msgid " Post name (post slug)"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:73
+msgid " Last modified date"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:74
+msgid " Random order"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:75
+msgid " Number of comments"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:80
+msgid "Order post"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:83
+msgid " DESC"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:84
+msgid " ASC"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:89
+msgid "Post Ids"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:91
+msgid "If you want to display particular posts, enter their IDs comma separated. eg 101,202,300. Recommended: Leave blank"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:96
+msgid "Display Template"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:98
+msgid "There are prebuilt templates to display certain content in this theme. You are requested not to edit this."
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:100
+msgid " Default"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:101
+msgid " Testimonial Carousel"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:102
+msgid " Testimonial List"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:103
+msgid " Gallery With Title"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:104
+msgid " Gallery Full width"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:105
+msgid " Product Carousel"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:106
+msgid " Product Carousel 2"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:107
+msgid " Product Arrival Slider"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:116
+msgid "Title (Optional)"
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:119
+msgid "Enter the title for the entire block."
+msgstr ""
+
+#: inc/vc/tt_vc_add_content.php:128
+msgid "Description (Optional)"
+msgstr ""
+
+#: inc/vc/tt_vc_beforeafter.php:12
+msgid "CKC Before-after"
+msgstr ""
+
+#: inc/vc/tt_vc_beforeafter.php:15, inc/vc/tt_vc_title.php:15
+msgid "Title in Cakecious theme style."
+msgstr ""
+
+#: inc/vc/tt_vc_beforeafter.php:23
+msgid "Image for this item. Size 230x290 preferred."
+msgstr ""
+
+#: inc/vc/tt_vc_button.php:12
+msgid "Cakecious Buton"
+msgstr ""
+
+#: inc/vc/tt_vc_button.php:15
+msgid "Cakecious Style Button."
+msgstr ""
+
+#: inc/vc/tt_vc_button.php:20
+msgid "Please click below button to add link and anchor text for the button."
+msgstr ""
+
+#: inc/vc/tt_vc_button.php:21
+msgid "This field is for information purpose only."
+msgstr ""
+
+#: inc/vc/tt_vc_button.php:28, inc/vc/tt_vc_cta.php:52
+msgid "Button Link"
+msgstr ""
+
+#: inc/vc/tt_vc_comingsoon.php:11
+msgid "CKC Coming Soon Content"
+msgstr ""
+
+#: inc/vc/tt_vc_comingsoon.php:26
+msgid "Date"
+msgstr ""
+
+#: inc/vc/tt_vc_comingsoon.php:29
+msgid "Date of launch. in YYYY/DD/MM format."
+msgstr ""
+
+#: inc/vc/tt_vc_contacticons.php:12
+msgid "CKC Contact blocks"
+msgstr ""
+
+#: inc/vc/tt_vc_contacticons.php:15
+msgid "Contact us page blocks."
+msgstr ""
+
+#: inc/vc/tt_vc_contacticons.php:20, inc/vc/tt_vc_feature.php:31, inc/vc/tt_vc_feature2.php:20, inc/vc/tt_vc_service.php:31, inc/vc/tt_vc_servicefeature.php:44
+msgid "Icon"
+msgstr ""
+
+#: inc/vc/tt_vc_contacticons.php:29, inc/vc/tt_vc_feature.php:40, inc/vc/tt_vc_feature2.php:29, inc/vc/tt_vc_service.php:40, inc/vc/tt_vc_servicefeature.php:53, inc/vc/tt_vc_team.php:51, inc/vc/tt_vc_team.php:74, inc/vc/tt_vc_team.php:97, inc/vc/tt_vc_team.php:120, inc/vc/tt_vc_team.php:143
+msgid "Select icon from library."
+msgstr ""
+
+#: inc/vc/tt_vc_contacticons.php:33, inc/vc/tt_vc_feature2.php:33, inc/vc/tt_vc_servicefeature.php:57
+msgid "Custom icon"
+msgstr ""
+
+#: inc/vc/tt_vc_contacticons.php:34, inc/vc/tt_vc_feature2.php:34, inc/vc/tt_vc_servicefeature.php:58
+msgid "This theme comes with few special icons, if you know the code, enter here. Please note if you enter anything here, the above field will no longer work."
+msgstr ""
+
+#: inc/vc/tt_vc_contacticons.php:42, inc/vc/tt_vc_feature2.php:41, inc/vc/tt_vc_servicefeature.php:66, inc/vc/tt_vc_splrecipe.php:55
+msgid "On few types, the below button Label also appears as title."
+msgstr ""
+
+#: inc/vc/tt_vc_countdown.php:12
+msgid "CKC Countdown"
+msgstr ""
+
+#: inc/vc/tt_vc_countdown.php:19
+msgid "Number"
+msgstr ""
+
+#: inc/vc/tt_vc_countdown.php:27
+msgid "Label"
+msgstr ""
+
+#: inc/vc/tt_vc_cta.php:11
+msgid "CKC CTA"
+msgstr ""
+
+#: inc/vc/tt_vc_cta.php:14
+msgid "Add Call to Action block."
+msgstr ""
+
+#: inc/vc/tt_vc_cta.php:27, inc/vc/tt_vc_newarrival.php:43
+msgid "Subtitle"
+msgstr ""
+
+#: inc/vc/tt_vc_feature.php:12, inc/vc/tt_vc_feature2.php:12
+msgid "CKC Features Block"
+msgstr ""
+
+#: inc/vc/tt_vc_feature.php:15
+msgid "Features block for this theme."
+msgstr ""
+
+#: inc/vc/tt_vc_feature.php:20, inc/vc/tt_vc_service.php:20
+msgid "Insert Graphic"
+msgstr ""
+
+#: inc/vc/tt_vc_feature.php:21, inc/vc/tt_vc_service.php:21
+msgid "Do you want to insert image or icon on this infobox."
+msgstr ""
+
+#: inc/vc/tt_vc_feature.php:51, inc/vc/tt_vc_feature1.php:22, inc/vc/tt_vc_hilitepost.php:22, inc/vc/tt_vc_service.php:51, inc/vc/tt_vc_serviceblock.php:22
+msgid "Select image from media library."
+msgstr ""
+
+#: inc/vc/tt_vc_feature.php:59, inc/vc/tt_vc_feature1.php:30, inc/vc/tt_vc_hilitepost.php:30, inc/vc/tt_vc_service.php:59, inc/vc/tt_vc_serviceblock.php:30
+msgid "Image size"
+msgstr ""
+
+#: inc/vc/tt_vc_feature.php:62, inc/vc/tt_vc_feature1.php:33, inc/vc/tt_vc_service.php:62
+msgid "Enter image size (Example: \"thumbnail\", \"medium\", \"large\", \"full\" or other sizes defined by theme). Alternatively enter size in pixels (Example: 200x100 (Width x Height))."
+msgstr ""
+
+#: inc/vc/tt_vc_feature.php:84, inc/vc/tt_vc_feature1.php:44, inc/vc/tt_vc_feature2.php:55, inc/vc/tt_vc_hilitepost.php:44, inc/vc/tt_vc_home3wedo.php:82, inc/vc/tt_vc_item_list.php:42, inc/vc/tt_vc_newarrival.php:50, inc/vc/tt_vc_practise.php:35, inc/vc/tt_vc_service.php:84, inc/vc/tt_vc_servicefeature.php:87, inc/vc/tt_vc_splrecipe.php:69
+msgid "Link"
+msgstr ""
+
+#: inc/vc/tt_vc_feature.php:85, inc/vc/tt_vc_feature2.php:56, inc/vc/tt_vc_item_list.php:43, inc/vc/tt_vc_service.php:85, inc/vc/tt_vc_servicefeature.php:88, inc/vc/tt_vc_splrecipe.php:70
+msgid "If you want a link on the bottom, enter anchor text and link here. Leave as it is for no link."
+msgstr ""
+
+#: inc/vc/tt_vc_feature.php:92
+msgid "Type 1 is for home page. ."
+msgstr ""
+
+#: inc/vc/tt_vc_feature1.php:12
+msgid "CKC Home 1 Image Block"
+msgstr ""
+
+#: inc/vc/tt_vc_feature2.php:15, inc/vc/tt_vc_item_list.php:15
+msgid "Features block with icon."
+msgstr ""
+
+#: inc/vc/tt_vc_feature2.php:63
+msgid "Link the title. Beta"
+msgstr ""
+
+#: inc/vc/tt_vc_feature2.php:64
+msgid "If you want to link the title with above link, please check this box. If you leave unchecked , the Link label(you chose in above link) with link displays on bottom of feature box. NA on type 2."
+msgstr ""
+
+#: inc/vc/tt_vc_feature2.php:71
+msgid "Type 1 is for home page."
+msgstr ""
+
+#: inc/vc/tt_vc_hilitepost.php:12
+msgid "CKC Highlight Image Block"
+msgstr ""
+
+#: inc/vc/tt_vc_hilitepost.php:33
+msgid "Enter image size (Example: \"thumbnail\", \"medium\", \"large\", \"full\" or other sizes defined by theme). Alternatively enter size in pixels (Recommended: 370x387 (Width x Height))."
+msgstr ""
+
+#: inc/vc/tt_vc_home1contact.php:11
+msgid "CKC Home Contact"
+msgstr ""
+
+#: inc/vc/tt_vc_home1contact.php:14
+msgid "Contact form with image."
+msgstr ""
+
+#: inc/vc/tt_vc_home1contact.php:20
+msgid "Enter Contact form 7 shortcode."
+msgstr ""
+
+#: inc/vc/tt_vc_home1contact.php:30
+msgid "This image appears as background on right side. for team member. Size 845x550  preferred."
+msgstr ""
+
+#: inc/vc/tt_vc_home1contact.php:34
+msgid "Enter title."
+msgstr ""
+
+#: inc/vc/tt_vc_home1contact.php:41
+msgid "Description. NA on Home 3."
+msgstr ""
+
+#: inc/vc/tt_vc_home1contact.php:49
+msgid "Different types are used on particular homepage."
+msgstr ""
+
+#: inc/vc/tt_vc_home3wedo.php:12
+msgid "CKC What we do"
+msgstr ""
+
+#: inc/vc/tt_vc_home3wedo.php:15
+msgid "What we do carousel."
+msgstr ""
+
+#: inc/vc/tt_vc_home3wedo.php:44
+msgid "There are 2 type of titles in this theme, choose here."
+msgstr ""
+
+#: inc/vc/tt_vc_home3wedo.php:46, inc/vc/tt_vc_imgshadow.php:32, inc/vc/tt_vc_title.php:39, inc/vc/tt_vc_title.php:50
+msgid " Default (recommended)"
+msgstr ""
+
+#: inc/vc/tt_vc_home3wedo.php:47
+msgid " Black Title"
+msgstr ""
+
+#: inc/vc/tt_vc_home3wedo.php:59
+msgid "What we do items"
+msgstr ""
+
+#: inc/vc/tt_vc_home3wedo.php:78
+msgid "Image for this item. Size 270x290 preferred."
+msgstr ""
+
+#: inc/vc/tt_vc_imgshadow.php:12
+msgid "CKC Image special"
+msgstr ""
+
+#: inc/vc/tt_vc_imgshadow.php:24, inc/vc/tt_vc_splrecipe.php:50
+msgid "Image for this item. Size 300x400 preferred for Shadow image, 840x330 for default."
+msgstr ""
+
+#: inc/vc/tt_vc_imgshadow.php:30
+msgid "There are few type of image display in this theme, choose here."
+msgstr ""
+
+#: inc/vc/tt_vc_imgshadow.php:33
+msgid " With Shadow"
+msgstr ""
+
+#: inc/vc/tt_vc_item_list.php:12
+msgid "CKC Menu Item List"
+msgstr ""
+
+#: inc/vc/tt_vc_item_list.php:21
+msgid "Enter the title."
+msgstr ""
+
+#: inc/vc/tt_vc_item_list.php:34, inc/vc/tt_vc_newarrival.php:30
+msgid "Price"
+msgstr ""
+
+#: inc/vc/tt_vc_item_list.php:35
+msgid "Enter the price of item. Please include the currency too. eg $6.90"
+msgstr ""
+
+#: inc/vc/tt_vc_item_list.php:50
+msgid "Link the title"
+msgstr ""
+
+#: inc/vc/tt_vc_item_list.php:51
+msgid "If you want to link the title with above link, please check this box. If you leave unchecked , the Link label(you chose in above link) with link displays on bottom of feature box."
+msgstr ""
+
+#: inc/vc/tt_vc_logo_carousel.php:11
+msgid "CKC Logo Carousel"
+msgstr ""
+
+#: inc/vc/tt_vc_logo_carousel.php:18
+msgid "Images"
+msgstr ""
+
+#: inc/vc/tt_vc_logo_carousel.php:21
+msgid "Select images from media library."
+msgstr ""
+
+#: inc/vc/tt_vc_logo_carousel.php:25
+msgid "Carousel size"
+msgstr ""
+
+#: inc/vc/tt_vc_logo_carousel.php:28
+msgid "Enter image size. Example: thumbnail, medium, large, full or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height). Leave empty to use \"thumbnail\" size. If used slides per view, this will be used to define carousel wrapper size."
+msgstr ""
+
+#: inc/vc/tt_vc_logo_carousel.php:32
+msgid "On click action"
+msgstr ""
+
+#: inc/vc/tt_vc_logo_carousel.php:35
+msgid "Open prettyPhoto"
+msgstr ""
+
+#: inc/vc/tt_vc_logo_carousel.php:36
+msgid "None"
+msgstr ""
+
+#: inc/vc/tt_vc_logo_carousel.php:37
+msgid "Open custom links"
+msgstr ""
+
+#: inc/vc/tt_vc_logo_carousel.php:39
+msgid "Select action for click event."
+msgstr ""
+
+#: inc/vc/tt_vc_logo_carousel.php:43
+msgid "Custom links"
+msgstr ""
+
+#: inc/vc/tt_vc_logo_carousel.php:45
+msgid "Enter links for each slide (Note: divide links with linebreaks (Enter))."
+msgstr ""
+
+#: inc/vc/tt_vc_logo_carousel.php:53
+msgid "Custom link target"
+msgstr ""
+
+#: inc/vc/tt_vc_logo_carousel.php:55
+msgid "Select how to open custom links."
+msgstr ""
+
+#: inc/vc/tt_vc_logo_carousel.php:61
+msgid "Same window"
+msgstr ""
+
+#: inc/vc/tt_vc_logo_carousel.php:62
+msgid "New window"
+msgstr ""
+
+#: inc/vc/tt_vc_logo_carousel.php:67
+msgid "Element ID"
+msgstr ""
+
+#: inc/vc/tt_vc_logo_carousel.php:69
+msgid "Enter element ID (Note: make sure it is unique and valid according to <a href=\"%s\" target=\"_blank\">w3c specification</a>)."
+msgstr ""
+
+#: inc/vc/tt_vc_logo_carousel.php:73
+msgid "Extra class name"
+msgstr ""
+
+#: inc/vc/tt_vc_logo_carousel.php:75
+msgid "Style particular content element differently - add a class name and refer to it in custom CSS."
+msgstr ""
+
+#: inc/vc/tt_vc_logo_carousel.php:79
+msgid "CSS box"
+msgstr ""
+
+#: inc/vc/tt_vc_logo_carousel.php:81
+msgid "Design Options"
+msgstr ""
+
+#: inc/vc/tt_vc_newarrival.php:12
+msgid "CKC New Arrivals"
+msgstr ""
+
+#: inc/vc/tt_vc_newarrival.php:22
+msgid "Select image from media library. Size 370x380 preferred."
+msgstr ""
+
+#: inc/vc/tt_vc_newarrival.php:32
+msgid "Enter price of product the above image is of. Please include currency also. eg $40"
+msgstr ""
+
+#: inc/vc/tt_vc_practise.php:12
+msgid "CKC Practise"
+msgstr ""
+
+#: inc/vc/tt_vc_practise.php:15
+msgid "Practise area block."
+msgstr ""
+
+#: inc/vc/tt_vc_practise.php:30
+msgid "Select image from media library. Size 250x250 preferred."
+msgstr ""
+
+#: inc/vc/tt_vc_service.php:12, inc/vc/tt_vc_serviceblock.php:12
+msgid "CKC Service Block"
+msgstr ""
+
+#: inc/vc/tt_vc_service.php:15
+msgid "Service block for this theme."
+msgstr ""
+
+#: inc/vc/tt_vc_service.php:92
+msgid "Type 2 is used on homepage 4."
+msgstr ""
+
+#: inc/vc/tt_vc_service.php:101
+msgid "Background Style."
+msgstr ""
+
+#: inc/vc/tt_vc_serviceblock.php:33
+msgid "Enter image size (Example: \"thumbnail\", \"medium\", \"large\", \"full\" or other sizes defined by theme). Alternatively enter size in pixels (Example: 222x222 (Width x Height)). Please try to upload image in square format."
+msgstr ""
+
+#: inc/vc/tt_vc_serviceblock.php:37
+msgid "The title and Link"
+msgstr ""
+
+#: inc/vc/tt_vc_servicefeature.php:10
+msgid "CKC Service Features"
+msgstr ""
+
+#: inc/vc/tt_vc_servicefeature.php:13
+msgid "Features block used on service single page."
+msgstr ""
+
+#: inc/vc/tt_vc_servicefeature.php:35
+msgid "CKC Service Features Content"
+msgstr ""
+
+#: inc/vc/tt_vc_servicefeature.php:80
+msgid "Gray BG ?"
+msgstr ""
+
+#: inc/vc/tt_vc_splrecipe.php:12
+msgid "CKC Special Recipe"
+msgstr ""
+
+#: inc/vc/tt_vc_splrecipe.php:15
+msgid "Can be used to display any kind of data"
+msgstr ""
+
+#: inc/vc/tt_vc_splrecipe.php:37
+msgid "CKC Special Recipe Content"
+msgstr ""
+
+#: inc/vc/tt_vc_team.php:12
+msgid "CKC Chef/Team"
+msgstr ""
+
+#: inc/vc/tt_vc_team.php:15
+msgid "Team block."
+msgstr ""
+
+#: inc/vc/tt_vc_team.php:28
+msgid "Post / Cover text"
+msgstr ""
+
+#: inc/vc/tt_vc_team.php:30
+msgid "Post (or any other text) for this team member."
+msgstr ""
+
+#: inc/vc/tt_vc_team.php:38
+msgid "Image for team member. Size 270x280 preferred."
+msgstr ""
+
+#: inc/vc/tt_vc_team.php:57
+msgid "Icon 1 Link"
+msgstr ""
+
+#: inc/vc/tt_vc_team.php:59, inc/vc/tt_vc_team.php:82, inc/vc/tt_vc_team.php:105, inc/vc/tt_vc_team.php:128, inc/vc/tt_vc_team.php:151
+msgid "Link for above icon."
+msgstr ""
+
+#: inc/vc/tt_vc_team.php:80
+msgid "Icon 2 Link"
+msgstr ""
+
+#: inc/vc/tt_vc_team.php:103
+msgid "Icon 3 Link"
+msgstr ""
+
+#: inc/vc/tt_vc_team.php:111
+msgid "Icon 4"
+msgstr ""
+
+#: inc/vc/tt_vc_team.php:126
+msgid "Icon 4 Link"
+msgstr ""
+
+#: inc/vc/tt_vc_team.php:134
+msgid "Icon 5"
+msgstr ""
+
+#: inc/vc/tt_vc_team.php:149
+msgid "Icon 5 Link"
+msgstr ""
+
+#: inc/vc/tt_vc_title.php:12
+msgid "CKC Title"
+msgstr ""
+
+#: inc/vc/tt_vc_title.php:37
+msgid "There are few type of titles in this theme, choose here."
+msgstr ""
+
+#: inc/vc/tt_vc_title.php:40
+msgid " Type 1"
+msgstr ""
+
+#: inc/vc/tt_vc_title.php:41
+msgid " Type 2"
+msgstr ""
+
+#: inc/vc/tt_vc_title.php:42
+msgid " Type 3"
+msgstr ""
+
+#: inc/vc/tt_vc_title.php:47
+msgid "Color"
+msgstr ""
+
+#: inc/vc/tt_vc_title.php:51
+msgid " White"
+msgstr ""
+
+#: inc/vc/tt_vc_video.php:11
+msgid "CKC Video"
+msgstr ""
+
+#: inc/vc/tt_vc_video.php:14
+msgid "Add video popup on image."
+msgstr ""
+
+#: inc/vc/tt_vc_video.php:22
+msgid "This title appears after the play icon."
+msgstr ""
+
+#: inc/vc/tt_vc_video.php:27
+msgid "Video link"
+msgstr ""
+
+#: inc/vc/tt_vc_video.php:28
+msgid "Enter video link, this opens in a popup."
+msgstr ""
+
+#: inc/vc/tt_vc_wc_sc.php:12
+msgid "CKC WooCom Items."
+msgstr ""
+
+#: inc/vc/tt_vc_wc_sc.php:15
+msgid "This displays woocommerce items."
+msgstr ""
+
+#: inc/vc/tt_vc_wc_sc.php:23
+msgid "Please click Save button below and then select its child shortcode to enter items. Please keep Product columns as 4."
+msgstr ""
+
+#. translators: %d: total results
+#: woocommerce/loop/result-count.php:30
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: first result 2: last result 3: total results
+#: woocommerce/loop/result-count.php:35
+msgctxt "with first and last result"
+msgid "Showing the single result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
